@@ -1,0 +1,2 @@
+# ArcoLinuxB-icewm Calamares configuration
+
